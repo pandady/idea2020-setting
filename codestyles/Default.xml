@@ -1,11 +1,1 @@
-<code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="140" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <codeStyleSettings language="JAVA">
-    <option name="WRAP_COMMENTS" value="true" />
-    <option name="WRAP_LONG_LINES" value="true" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-</code_scheme>
+<code_scheme name="Default" version="173" />
