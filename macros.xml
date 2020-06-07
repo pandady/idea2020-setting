@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="auto build">
+      <action id="SaveAll" />
+      <action id="CompileDirty" />
+      <action id="ReformatCode" />
+    </macro>
+  </component>
+</application>
